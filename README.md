@@ -7,3 +7,4 @@ getting to more about git
 * for italics
 * for bold **bold**
 for link [link](https://www.uwrindia.com/)
+! [circuit](newfolder/rgb.jpg)
