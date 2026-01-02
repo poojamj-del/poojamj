@@ -1,8 +1,9 @@
 # Hi i am poojamj :)
 getting to more about git
-## for smaller heading
-### what is come now
+## robotics trainer at UWR
+> ## passion
+> learn new things
 * bullet point
 * for italics
 * for bold **bold**
-for link [(https://www.uwrindia.com/)]
+for link [link](https://www.uwrindia.com/)
